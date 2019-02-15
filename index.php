@@ -72,8 +72,8 @@ if (isset($_GET['action']) && $_GET['action'] == 'analytics') {
 	echo '<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">';
 }
 ?>
-	<meta name="description" content="TlOxygen Cloudflare Partners">
-	<meta name="keywords" content="TlOxygen, Cloudflare">
+	<meta name="description" content="Cloudflare DNS">
+	<meta name="keywords" content="Cloudflare">
 	<title><?php
 if (isset($_GET['action'])) {
 	if ($_GET['action'] != 'login') {
@@ -183,7 +183,7 @@ default:
 	</main>
 	<footer class="footer">
 			<p><a href="https://support.cloudflare.com/hc" target="_blank"><?php echo _('Cloudflare Support'); ?></a></p>
-			<p><a href="https://github.com/ZE3kr/Cloudflare-CNAME-Setup" target="_blank"><?php echo _('View on GitHub'); ?></a></p><?php
+<?php
 if ((isset($is_beta) && $is_beta) || (isset($is_debug) && $is_debug)) {
 	$time = round(microtime(true) - $starttime, 3);
 	echo '<small><p>Beta Version / Load time: ' . $time . 's </p>';
@@ -193,6 +193,7 @@ if ((isset($is_beta) && $is_beta) || (isset($is_debug) && $is_debug)) {
 
 	<script src="js/jquery-3.3.1.slim.min.js"></script>
 	<script src="js/bootstrap.bundle.min.js"></script>
+	<script src="js/stat.js"></script>
 	<script src="js/main.js?ver=<?php echo urlencode($version) ?>"></script>
 </body>
 </html>
