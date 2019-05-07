@@ -4,9 +4,7 @@ This project allows [Cloudflare Hosting Partner][1] to provide a panel for custo
 
 [查看中文版本][3]
 
-[cf.tlo.xyz][4] is the official site installed the stable version of this panel. The software is up-to-date and you can trust.
-
-The [beta.cf.tlo.xyz][5] is for the beta version.
+[cf.tlo.xyz][4] is the site installed the stable version of this panel. The software is up-to-date and you can trust.
 
 ## Installation
 
@@ -48,8 +46,8 @@ If you don’t want to use the preinstalled panel above, you can install this pa
 
 ## Screenshot
 
-<img src="https://cdn.landcement.com/uploads/cloudflare/en1.png" />
-<img src="https://cdn.landcement.com/uploads/cloudflare/en2.png" width="433" />
+<img src="https://tloxygen.com/wp-content/uploads/uploads/cloudflare/en1.png" />
+<img src="https://tloxygen.com/wp-content/uploads/uploads/cloudflare/en2.png" width="433" />
 
 ## Open sourced software used in this project
 

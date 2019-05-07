@@ -2,9 +2,7 @@
 
 [Cloudflare Hosting Partner][1] 可以使用此项目为用户提供一个可视化的面板，可以让用户免费的使用 [CNAME 接入][2]。
 
-[cf.tlo.xyz][3] 是安装了这个面板的最新稳定版的官方网站，值得你的信任。
-
-[beta.cf.tlo.xyz][4] 安装了最新的测试版。
+[cf.tlo.xyz][3] 是安装了这个面板的最新稳定版的网站，值得你的信任。
 
 ## 安装
 
@@ -46,8 +44,8 @@
 
 ## 屏幕截图
 
-<img src="https://cdn.landcement.com/uploads/cloudflare/zh1.png" />
-<img src="https://cdn.landcement.com/uploads/cloudflare/zh2.png" width="433" />
+<img src="https://tloxygen.com/wp-content/uploads/uploads/cloudflare/zh1.png" />
+<img src="https://tloxygen.com/wp-content/uploads/uploads/cloudflare/zh2.png" width="433" />
 
 ## Open sourced software used in this project
 
